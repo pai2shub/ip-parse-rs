@@ -2,5 +2,13 @@
 name = "ip-parse-rs"
 version = "0.1.0"
 edition = "2021"
+authors = ["pai2shub <pai2gsg@gmail.com>"]
+description = "A library for parsing IP addresses"
+documentation = "https://docs.rs/ip-parse-rs"
+readme = "README.md"
+homepage = "https://github.com/pai2shub/ip-parse-rs"
+repository = "https://github.com/pai2shub/ip-parse-rs"
+license = "MIT"
+keywords = ["ip", "ip-parse"]
 
 [dependencies]
